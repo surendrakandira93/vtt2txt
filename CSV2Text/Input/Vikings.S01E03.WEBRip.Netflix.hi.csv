@@ -1,0 +1,464 @@
+﻿Number;Start time in milliseconds;End time in milliseconds;"Text"
+1;1001;3378;"<c.bg_transparent>वाइकिंग्स में अब तक आपने देखा</c.bg_transparent>"
+2;3461;5505;"<c.bg_transparent>हमने एक नई नाव बनाई है। पहली बार,</c.bg_transparent>"
+3;6297;8675;"<c.bg_transparent>हम पश्चिम की ओर जा सकते हैं।</c.bg_transparent>
+<c.bg_transparent>वहाँ अपार धन हमारा इंतज़ार कर रहा है।</c.bg_transparent>"
+4;9676;11594;"<c.bg_transparent>हमारे दुश्मन हर तरफ़ हैं।</c.bg_transparent>"
+5;11678;13430;"<c.bg_transparent>वे जीत नहीं सकते।</c.bg_transparent>"
+6;13513;15181;"<c.bg_transparent>अर्ल हमारी नई नाव के बारे में</c.bg_transparent>
+<c.bg_transparent>कुछ नहीं जानता है।</c.bg_transparent>"
+7;15265;17058;"<c.bg_transparent>उसके आदेशों को नकारने के लिए</c.bg_transparent>
+<c.bg_transparent>वह हमें मार सकता है।</c.bg_transparent>"
+8;17142;19060;"<c.bg_transparent>हिम्मत है तुम लोगों में</c.bg_transparent>
+<c.bg_transparent>हमारे साथ चलने की?</c.bg_transparent>"
+9;19144;22021;"<c.bg_transparent>-वे निकल पड़े हैं।</c.bg_transparent>
+<c.bg_transparent>-अब वे वापस नहीं आने वाले।</c.bg_transparent>"
+10;22105;23273;"<c.bg_transparent>अगर रैगनार सही निकला तो?</c.bg_transparent>"
+11;23356;26443;"<c.bg_transparent>पश्चिम की ओर कोई ज़मीन नहीं है!</c.bg_transparent>"
+12;26526;29404;"<c.bg_transparent>-वे आ गए। वे यहाँ आ गए हैं।</c.bg_transparent>
+<c.bg_transparent>-कौन आ गया है?</c.bg_transparent>"
+13;29487;31531;"<c.bg_transparent>नरक और उसके सभी शैतान!</c.bg_transparent>"
+14;35910;37704;"<c.bg_transparent>तुम हमारी भाषा कैसे जानते हो?</c.bg_transparent>"
+15;38121;40457;"<c.bg_transparent>-तुमने इसे क्यों नहीं मारा?</c.bg_transparent>
+<c.bg_transparent>-वो ज़िंदा रहकर ज़्यादा काम का है।</c.bg_transparent>"
+16;40540;43376;"<c.bg_transparent>जो ले सकते हो ले लो।</c.bg_transparent>
+<c.bg_transparent>हम इसलिए ही यहाँ आए हैं।</c.bg_transparent>"
+17;151442;152652;"<c.bg_transparent>सुनो!</c.bg_transparent>"
+18;159492;162704;"<c.bg_transparent>तुम रैगनार लोथब्रोक के बेटे ब्योर्न हो।</c.bg_transparent>"
+19;162787;164664;"<c.bg_transparent>तुम मुझे अच्छे से याद हो।</c.bg_transparent>"
+20;165999;166958;"<c.bg_transparent>हाँ।</c.bg_transparent>"
+21;167458;168793;"<c.bg_transparent>तुम्हारे पिताजी कहाँ हैं?</c.bg_transparent>"
+22;169460;171754;"<c.bg_transparent>ब्योर्न? तुम किससे बात कर रहे हो?</c.bg_transparent>"
+23;174424;176551;"<c.bg_transparent>मैं बस तुम्हारे बेटे से पूछ रहा था कि</c.bg_transparent>"
+24;176759;179178;"<c.bg_transparent>रैगनार लोथब्रोक कहाँ गया है।</c.bg_transparent>"
+25;179679;180972;"<c.bg_transparent>वह मछली पकड़ने गए हैं।</c.bg_transparent>"
+26;182265;183558;"<c.bg_transparent>मछली पकड़ने?</c.bg_transparent>"
+27;184517;185894;"<c.bg_transparent>वह मछली पकड़ने गया है?</c.bg_transparent>"
+28;186853;188062;"<c.bg_transparent>हाँ।</c.bg_transparent>"
+29;189355;190648;"<c.bg_transparent>मछली पकड़ने।</c.bg_transparent>"
+30;192817;194235;"<c.bg_transparent>वो वापस कब तक आएगा?</c.bg_transparent>"
+31;196404;197906;"<c.bg_transparent>मुझे नहीं पता।</c.bg_transparent>"
+32;199741;202994;"<c.bg_transparent>यदि ऐसा है तो मुझे किसी को</c.bg_transparent>
+<c.bg_transparent>ज़मानत के तौर पर ले जाना होगा।</c.bg_transparent>"
+33;203953;205163;"<c.bg_transparent>शायद ज़रूरत पड़े।</c.bg_transparent>"
+34;208082;209292;"<c.bg_transparent>ज़रूरत पड़े...</c.bg_transparent>"
+35;209375;211586;"<c.bg_transparent>अगर तुम्हारा पति</c.bg_transparent>
+<c.bg_transparent>मछली पकड़ने नहीं गया हो तो।</c.bg_transparent>"
+36;225183;227602;"<c.bg_transparent>सुनो! इधर आओ!</c.bg_transparent>"
+37;229520;230688;"<c.bg_transparent>आ जाओ!</c.bg_transparent>"
+38;239864;241491;"<c.bg_transparent>तुम्हें मेरे साथ चलना होगा।</c.bg_transparent>"
+39;242450;244327;"<c.bg_transparent>अगर तुमने इस आदेश को मानने से इंकार किया,</c.bg_transparent>"
+40;244911;247413;"<c.bg_transparent>तो अर्ल तुम्हें कड़ा कभी नहीं देंगे।</c.bg_transparent>"
+41;250208;251376;"<c.bg_transparent>मैं चलूँगा।</c.bg_transparent>"
+42;252919;253878;"<c.bg_transparent>शाबाश।</c.bg_transparent>"
+43;254754;256506;"<c.bg_transparent>तो चलो हम अपने रास्ते चलें।</c.bg_transparent>"
+44;257799;259008;"<c.bg_transparent>तुम क्या कर रहे हो?</c.bg_transparent>"
+45;259092;260301;"<c.bg_transparent>मेरे बेटे को कहाँ ले जा रहे हो?</c.bg_transparent>"
+46;260677;262345;"<c.bg_transparent>घबराओ मत, यह सुरक्षित रहेगा।</c.bg_transparent>"
+47;266182;267725;"<c.bg_transparent>लेकिन तुम सब अपना ध्यान रखना।</c.bg_transparent>"
+48;282115;283408;"<c.bg_transparent>हमने कर दिखाया, भाई।</c.bg_transparent>"
+49;287203;288454;"<c.bg_transparent>हाँ, भाई, हमने कर दिखाया।</c.bg_transparent>"
+50;291582;293793;"<c.bg_transparent>बस दुआ करो कि अर्ल भी इसे मान ले।</c.bg_transparent>"
+51;295962;297130;"<c.bg_transparent>हाँ।</c.bg_transparent>"
+52;313438;314647;"<c.bg_transparent>क्या नाम है तुम्हारा?</c.bg_transparent>"
+53;316649;317942;"<c.bg_transparent>एथेलस्टैन।</c.bg_transparent>"
+54;318318;321362;"<c.bg_transparent>मैं हूँ रैगनार लोथब्रोक।</c.bg_transparent>"
+55;324991;326659;"<c.bg_transparent>उस जगह का क्या नाम था?</c.bg_transparent>"
+56;329746;331164;"<c.bg_transparent>लिंडिसफार्न।</c.bg_transparent>"
+57;331748;332874;"<c.bg_transparent>इंग्लैंड?</c.bg_transparent>"
+58;334542;335710;"<c.bg_transparent>हाँ।</c.bg_transparent>"
+59;338337;343009;"<c.bg_transparent>यह भविष्यवाणी थी कि</c.bg_transparent>
+<c.bg_transparent>परमेश्वर के चुने हुए लोगों को</c.bg_transparent>"
+60;343092;345053;"<c.bg_transparent>हमारे सभी पापों का दंड भुगतना पड़ेगा,</c.bg_transparent>"
+61;347597;348890;"<c.bg_transparent>और इसलिए ऐसा हुआ।</c.bg_transparent>"
+62;350600;352268;"<c.bg_transparent>और इसीलिए मैं यहाँ हूँ।</c.bg_transparent>"
+63;354771;355855;"<c.bg_transparent>नहीं।</c.bg_transparent>"
+64;356647;359025;"<c.bg_transparent>तुम यहाँ इसलिए हो क्योंकि</c.bg_transparent>
+<c.bg_transparent>मैंने तुम्हें जीवन दान दिया।</c.bg_transparent>"
+65;362028;363863;"<c.bg_transparent>तुमने मुझे जीवन दान क्यों दिया?</c.bg_transparent>"
+66;371788;373164;"<c.bg_transparent>ये तो मुझे भी अभी तक नहीं मालूम।</c.bg_transparent>"
+67;423798;425133;"<c.bg_transparent>रैगनार लोथब्रोक।</c.bg_transparent>"
+68;425967;427260;"<c.bg_transparent>कहो, क्या बात है?</c.bg_transparent>"
+69;429387;432974;"<c.bg_transparent>ब्रदर केनवुल्फ़, यहाँ मेरे बगल में,</c.bg_transparent>
+<c.bg_transparent>मुझे लगता है वो मर चुके हैं।</c.bg_transparent>"
+70;444277;445319;"<c.bg_transparent>हाँ, तुम सही हो।</c.bg_transparent>"
+71;446195;447321;"<c.bg_transparent>लीफ़।</c.bg_transparent>"
+72;477768;479854;"<c.bg_transparent>परमेश्वर तुम्हारी आत्मा को शांति दे,</c.bg_transparent>
+<c.bg_transparent>ब्रदर केनवुल्फ़।</c.bg_transparent>"
+73;480730;484484;"<c.bg_transparent>उस परमपिता परमेश्वर से प्रार्थना है</c.bg_transparent>"
+74;484901;486402;"<c.bg_transparent>कि वो तुम्हें अपने चरणों में स्थान दें।</c.bg_transparent>"
+75;489322;490490;"<c.bg_transparent>हाँ!</c.bg_transparent>"
+76;551300;553094;"<c.bg_transparent>हम आज मस्ती करेंगे, मेरे दोस्त।</c.bg_transparent>"
+77;560059;561185;"<c.bg_transparent>एरिक!</c.bg_transparent>"
+78;562186;563354;"<c.bg_transparent>तुम आ गए!</c.bg_transparent>"
+79;563437;565523;"<c.bg_transparent>हाँ, लेकिन अकेले नहीं! देखो!</c.bg_transparent>"
+80;565606;566899;"<c.bg_transparent>हम बेचने के लिए गुलामों को लेकर आए हैं।</c.bg_transparent>"
+81;567441;569443;"<c.bg_transparent>और भी बहुत कुछ है, जानेमन।</c.bg_transparent>"
+82;569527;574115;"<c.bg_transparent>सोने और चांदी की बेशकीमती चीज़ें</c.bg_transparent>
+<c.bg_transparent>जिन्हें मैंने और तुमने कभी नहीं देखा,</c.bg_transparent>"
+83;574657;576742;"<c.bg_transparent>और न ही यहाँ कैटेगट में</c.bg_transparent>
+<c.bg_transparent>किसी और ने देखी होंगी।</c.bg_transparent>"
+84;583374;586586;"<c.bg_transparent>रैगनार लोथब्रोक, स्वागत है मेरे भाई।</c.bg_transparent>"
+85;587753;590464;"<c.bg_transparent>हम जानते हैं कि तुम खुले समुद्र में</c.bg_transparent>
+<c.bg_transparent>पश्चिम की तरफ़ गए थे</c.bg_transparent>"
+86;591424;594927;"<c.bg_transparent>और जैसा तुमने वादा किया था,</c.bg_transparent>
+<c.bg_transparent>तुम्हें ज़मीन और खज़ाना भी मिला।</c.bg_transparent>"
+87;595011;598889;"<c.bg_transparent>तो, अब किसी को भी यह नहीं</c.bg_transparent>
+<c.bg_transparent>कहना चाहिए कि यह संभव नहीं,</c.bg_transparent>"
+88;598973;601142;"<c.bg_transparent>और हम तुम्हारी बहादुरी को सलाम करते हैं।</c.bg_transparent>"
+89;625750;626834;"<c.bg_transparent>कनूट।</c.bg_transparent>"
+90;627627;630671;"<c.bg_transparent>बहुत देर कर दी तुमने।</c.bg_transparent>
+<c.bg_transparent>तुम नाव में जाने से चूक गए।</c.bg_transparent>"
+91;633382;635676;"<c.bg_transparent>मैं तुम्हें ये बताने आया था कि</c.bg_transparent>
+<c.bg_transparent>अर्ल हरल्डसन चाहते हैं कि</c.bg_transparent>"
+92;635760;637178;"<c.bg_transparent>तुम उनसे अभी मिलने पहुंचो।</c.bg_transparent>"
+93;641474;643142;"<c.bg_transparent>यह तो खुशी की बात होगी।</c.bg_transparent>"
+94;643934;645269;"<c.bg_transparent>शाबाश, रैगनार !</c.bg_transparent>"
+95;646437;647938;"<c.bg_transparent>तुम आ रहे हो न, कनूट?</c.bg_transparent>"
+96;679261;680346;"<c.bg_transparent>महाराज,</c.bg_transparent>"
+97;682014;684392;"<c.bg_transparent>ये खज़ाना लूटना तो बच्चों का खेल था।</c.bg_transparent>"
+98;686060;689647;"<c.bg_transparent>वहाँ गिरजाघर में जो पुजारी थे,</c.bg_transparent>
+<c.bg_transparent>उनके पास कोई हथियार नहीं थे।</c.bg_transparent>"
+99;690439;691816;"<c.bg_transparent>वो एकदम बच्चों जैसे थे।</c.bg_transparent>"
+100;694568;696278;"<c.bg_transparent>यह उनमें से ही एक है।</c.bg_transparent>"
+101;697488;700991;"<c.bg_transparent>हमने ऐसे कई पकड़े हैं</c.bg_transparent>
+<c.bg_transparent>गुलाम के रूप में बेचने के लिए।</c.bg_transparent>"
+102;703744;705121;"<c.bg_transparent>यह एकदम सच है कि</c.bg_transparent>"
+103;705663;708791;"<c.bg_transparent>पश्चिम में इंग्लैंड में</c.bg_transparent>
+<c.bg_transparent>कई ऐसी पवित्र जगहें हैं</c.bg_transparent>"
+104;709834;712044;"<c.bg_transparent>और उसके अलावा भी विशाल ज़मीन है</c.bg_transparent>"
+105;712628;716715;"<c.bg_transparent>इसी तरह के खज़ाने से भरी हुई,</c.bg_transparent>"
+106;718217;721804;"<c.bg_transparent>और वहाँ जाने से</c.bg_transparent>
+<c.bg_transparent>हम सबका फ़ायदा होगा।</c.bg_transparent>"
+107;730813;734608;"<c.bg_transparent>ये बताओ कि तुम इतनी</c.bg_transparent>
+<c.bg_transparent>दौलत वाली जगह पर पहुंचे कैसे</c.bg_transparent>"
+108;735484;737403;"<c.bg_transparent>जबकि तुमसे पहले तो कोई भी कामयाब नहीं हुआ?</c.bg_transparent>"
+109;739196;740364;"<c.bg_transparent>महाराज,</c.bg_transparent>"
+110;742700;745744;"<c.bg_transparent>हमारी किस्मत उन सभी से ज़्यादा अच्छी थी।</c.bg_transparent>"
+111;747496;748956;"<c.bg_transparent>और हमारे साथ हमारे थॉर थे।</c.bg_transparent>"
+112;749415;750875;"<c.bg_transparent>-थॉर।</c.bg_transparent>
+<c.bg_transparent>-हाँ, थॉर।</c.bg_transparent>"
+113;756255;757339;"<c.bg_transparent>हाँ।</c.bg_transparent>"
+114;758799;760551;"<c.bg_transparent>तुम तो सच में किस्मत वाले निकले।</c.bg_transparent>"
+115;760885;764555;"<c.bg_transparent>लेकिन तुम ये तो जानते हो न कि</c.bg_transparent>
+<c.bg_transparent>यह सब कुछ मेरा ही है,</c.bg_transparent>"
+116;766223;767266;"<c.bg_transparent>इस पर मेरा अधिकार है।</c.bg_transparent>"
+117;769351;773063;"<c.bg_transparent>महाराज, मैंने और फ्लोकी ने</c.bg_transparent>
+<c.bg_transparent>नाव का पूरा खर्चा उठाया है।</c.bg_transparent>"
+118;773606;778194;"<c.bg_transparent>तो हमारा भी इनाम पर हक बनता है,</c.bg_transparent>
+<c.bg_transparent>और मेरी टोली के लोग...</c.bg_transparent>"
+119;778277;780571;"<c.bg_transparent>तो तुम मुआवज़ा चाहते हो</c.bg_transparent>"
+120;780654;784825;"<c.bg_transparent>जबकि तुमने अभी कहा कि</c.bg_transparent>
+<c.bg_transparent>खज़ाना लूटना तो बच्चों का खेल था?</c.bg_transparent>"
+121;801800;803594;"<c.bg_transparent>तो मैंने भी फ़ैसला कर लिया है।</c.bg_transparent>"
+122;804637;809350;"<c.bg_transparent>तुम में से हर एक इस माल में से</c.bg_transparent>
+<c.bg_transparent>केवल एक चीज़ ले सकता है।</c.bg_transparent>"
+123;810893;812561;"<c.bg_transparent>-केवल एक?</c.bg_transparent>
+<c.bg_transparent>-हाँ।</c.bg_transparent>"
+124;812645;814897;"<c.bg_transparent>और फिर भी तुम पहले से</c.bg_transparent>
+<c.bg_transparent>ज़्यादा अमीर हो जाओगे।</c.bg_transparent>"
+125;819151;821862;"<c.bg_transparent>अब, पूरी दुनिया देख सकती है कि</c.bg_transparent>"
+126;821946;824949;"<c.bg_transparent>तुम्हारे महाराज का दिल</c.bg_transparent>
+<c.bg_transparent>कितना बड़ा और दयालु है,</c.bg_transparent>"
+127;827201;829787;"<c.bg_transparent>खासकर तब, जब तुमने मेरी आज्ञा नहीं मानी।</c.bg_transparent>"
+128;832540;836043;"<c.bg_transparent>तो, रैगनार लोथब्रोक,</c.bg_transparent>"
+129;837670;838963;"<c.bg_transparent>तुम क्या चुनोगे?</c.bg_transparent>"
+130;875875;877293;"<c.bg_transparent>मैं पुजारी को चुनूंगा...</c.bg_transparent>"
+131;879128;880379;"<c.bg_transparent>मेरी गुलामी करने के लिए।</c.bg_transparent>"
+132;883132;884383;"<c.bg_transparent>पुजारी को?</c.bg_transparent>"
+133;897855;899106;"<c.bg_transparent>मंज़ूर है।</c.bg_transparent>"
+134;907907;909199;"<c.bg_transparent>तुमने ऐसा क्यों किया?</c.bg_transparent>"
+135;910159;912369;"<c.bg_transparent>तुमने सब कुछ इतनी आसानी से</c.bg_transparent>
+<c.bg_transparent>क्यों छोड़ दिया?</c.bg_transparent>"
+136;913245;914747;"<c.bg_transparent>हमारी मेहनत बर्बाद हो गई।</c.bg_transparent>"
+137;916540;918083;"<c.bg_transparent>मुझे तुम पर कभी भरोसा नहीं करना चाहिए था।</c.bg_transparent>"
+138;919168;921337;"<c.bg_transparent>वो हमें मारने का बहाना ढूंढ रहा था।</c.bg_transparent>"
+139;921754;925674;"<c.bg_transparent>और ऐसी घिनौनी और बेहूदा मौत के बाद</c.bg_transparent>
+<c.bg_transparent>क्या हमें वलहैला में जगह मिल पाती?</c.bg_transparent>"
+140;927301;929595;"<c.bg_transparent>भाई, मुझ पर भरोसा रखो,</c.bg_transparent>"
+141;931096;932473;"<c.bg_transparent>अभी खेल ख़त्म नहीं हुआ है,</c.bg_transparent>"
+142;933557;934892;"<c.bg_transparent>अभी तो शुरू हुआ है।</c.bg_transparent>"
+143;945861;947071;"<c.bg_transparent>खैर,</c.bg_transparent>"
+144;948280;950824;"<c.bg_transparent>कम से कम हमने उसे आसानी से</c.bg_transparent>
+<c.bg_transparent>सब कुछ तो नहीं दिया।</c.bg_transparent>"
+145;952326;953661;"<c.bg_transparent>तुमने वहाँ से यह ले लिया?</c.bg_transparent>"
+146;955454;956956;"<c.bg_transparent>उसे कैसे पता चलेगा, मेरे भाई?</c.bg_transparent>"
+147;958874;960084;"<c.bg_transparent>बेवकूफ़ कहीं के!</c.bg_transparent>"
+148;960793;963420;"<c.bg_transparent>क्या ओडिन चाहते हैं कि</c.bg_transparent>
+<c.bg_transparent>हम ऐसी बेवकूफ़ी करें?</c.bg_transparent>"
+149;965756;969218;"<c.bg_transparent>तुम्हारा ओडिन भले ही माफ़ न करे</c.bg_transparent>
+<c.bg_transparent>लेकिन मेरा ज़रूर करेगा।</c.bg_transparent>"
+150;971720;975099;"<c.bg_transparent>तो कर लो तुम अपनी मनमानी,</c.bg_transparent>
+<c.bg_transparent>नशा करो, अय्याशी पर लुटाओ।</c.bg_transparent>"
+151;976308;979186;"<c.bg_transparent>ताकि अर्ल को पता चल जाए</c.bg_transparent>
+<c.bg_transparent>कि तुमने चोरी की है।</c.bg_transparent>"
+152;1016807;1018434;"<c.bg_transparent>यह तो बेशुमार खज़ाना है।</c.bg_transparent>"
+153;1020561;1022730;"<c.bg_transparent>तुम किसी खज़ाने से कम नहीं हो।</c.bg_transparent>"
+154;1023439;1025149;"<c.bg_transparent>देखा, आपने क्या किया, मेरे स्वामी?</c.bg_transparent>"
+155;1026442;1027943;"<c.bg_transparent>आप सबके मालिक हैं।</c.bg_transparent>"
+156;1029820;1034408;"<c.bg_transparent>बस कुछ ही शब्द बोलकर आपने रैगनार लोथब्रोक</c.bg_transparent>
+<c.bg_transparent>से उसका सारा खज़ाना छीन लिया।</c.bg_transparent>"
+157;1036035;1037369;"<c.bg_transparent>वह आपके सामने कुछ भी नहीं।</c.bg_transparent>"
+158;1038537;1040456;"<c.bg_transparent>असली ताकत तो आपके पास है,</c.bg_transparent>"
+159;1041457;1043042;"<c.bg_transparent>आपका ही राज है।</c.bg_transparent>"
+160;1047046;1049423;"<c.bg_transparent>आप जो चाहें हासिल कर सकते हैं।</c.bg_transparent>"
+161;1123288;1124873;"<c.bg_transparent>मैंने उनसे कहा था, आप वापस ज़रूर आएंगे।</c.bg_transparent>"
+162;1125040;1126917;"<c.bg_transparent>पिताजी! आप वापस आ गए!</c.bg_transparent>"
+163;1129128;1130921;"<c.bg_transparent>-अरे, छोटू...</c.bg_transparent>
+<c.bg_transparent>-क्या आप पश्चिम तक पहुंचे?</c.bg_transparent>"
+164;1143642;1144643;"<c.bg_transparent>तो,</c.bg_transparent>"
+165;1145602;1147354;"<c.bg_transparent>वादा किया हुआ खज़ाना कहाँ है?</c.bg_transparent>"
+166;1149189;1151108;"<c.bg_transparent>उस अर्ल ने हमसे सब कुछ ले लिया।</c.bg_transparent>"
+167;1153110;1156613;"<c.bg_transparent>लेकिन मुझे खज़ाना मिला,</c.bg_transparent>
+<c.bg_transparent>और वो भी पूरी नाव भरकर।</c.bg_transparent>"
+168;1160200;1163162;"<c.bg_transparent>-मुझे तुम पर यक़ीन है।</c.bg_transparent>
+<c.bg_transparent>-वो तो तुम्हें करना ही पड़ेगा।</c.bg_transparent>"
+169;1163912;1166748;"<c.bg_transparent>और इसे साबित करने के लिए</c.bg_transparent>
+<c.bg_transparent>ये रहा एक पुजारी।</c.bg_transparent>"
+170;1168000;1170335;"<c.bg_transparent>पुजारी! ये है मेरा परिवार।</c.bg_transparent>"
+171;1171795;1173380;"<c.bg_transparent>इसका नाम है एथेलस्टैन।</c.bg_transparent>"
+172;1174131;1176842;"<c.bg_transparent>है तो ये विदेशी,</c.bg_transparent>
+<c.bg_transparent>लेकिन हमारी भाषा बोलता है।</c.bg_transparent>"
+173;1178177;1179052;"<c.bg_transparent>नहीं बोलते हो क्या?</c.bg_transparent>"
+174;1179887;1181305;"<c.bg_transparent>हाँ, थोड़ा बहुत।</c.bg_transparent>"
+175;1185100;1186894;"<c.bg_transparent>ये तुम्हारे सर के बालों को क्या हुआ?</c.bg_transparent>"
+176;1188395;1190397;"<c.bg_transparent>जब हम पुजारी बनते हैं,</c.bg_transparent>
+<c.bg_transparent>तो बाल कटवाने पड़ते हैं।</c.bg_transparent>"
+177;1191481;1192900;"<c.bg_transparent>ताकि हम अलग दिखें।</c.bg_transparent>"
+178;1193525;1195777;"<c.bg_transparent>यदि तुम पुजारी हो, तो तुम्हारे</c.bg_transparent>
+<c.bg_transparent>पसंदीदा ईश्वर कौन हैं?</c.bg_transparent>"
+179;1197362;1198780;"<c.bg_transparent>ईश्वर तो केवल एक ही है।</c.bg_transparent>"
+180;1203035;1205287;"<c.bg_transparent>ये लो, तुम इसे छू सकते हो।</c.bg_transparent>"
+181;1207122;1209625;"<c.bg_transparent>-क्या हम इसे यहीं रख रहे हैं?</c.bg_transparent>
+<c.bg_transparent>-नमस्ते।</c.bg_transparent>"
+182;1211460;1213795;"<c.bg_transparent>मुझे तुम्हारी बहुत याद आई।</c.bg_transparent>"
+183;1218467;1221511;"<c.bg_transparent>-ये ऐसे कपड़े क्यों पहने हुए हो?</c.bg_transparent>
+<c.bg_transparent>-सभी पुजारी यही पहनते हैं।</c.bg_transparent>"
+184;1228310;1229645;"<c.bg_transparent>उसके पैरों को तो देखो।</c.bg_transparent>"
+185;1260384;1261510;"<c.bg_transparent>एथेलस्टैन।</c.bg_transparent>"
+186;1264388;1265555;"<c.bg_transparent>एथेलस्टैन</c.bg_transparent>"
+187;1267224;1268767;"<c.bg_transparent>हम तुमसे कुछ पूछना चाहते हैं।</c.bg_transparent>"
+188;1272854;1275357;"<c.bg_transparent>आओ हमारे साथ शामिल हो जाओ, पुजारी।</c.bg_transparent>"
+189;1276108;1277067;"<c.bg_transparent>आ जाओ।</c.bg_transparent>"
+190;1280821;1281989;"<c.bg_transparent>तुम नहीं करना चाहते हो?</c.bg_transparent>"
+191;1284199;1285450;"<c.bg_transparent>तुम्हें बहुत मज़ा आएगा।</c.bg_transparent>"
+192;1285909;1287119;"<c.bg_transparent>मैं संत हूँ।</c.bg_transparent>"
+193;1288537;1290372;"<c.bg_transparent>मैंने कुंवारा रहने की सौगंध खाई है।</c.bg_transparent>"
+194;1290914;1293083;"<c.bg_transparent>मैं किसी महिला को छू नहीं सकता।</c.bg_transparent>"
+195;1295585;1296795;"<c.bg_transparent>मैंने कभी छुआ भी नहीं।</c.bg_transparent>"
+196;1311601;1313020;"<c.bg_transparent>क्या अब भी नहीं करना चाहोगे?</c.bg_transparent>"
+197;1319776;1320819;"<c.bg_transparent>यह पाप होगा।</c.bg_transparent>"
+198;1320902;1322195;"<c.bg_transparent>किसे पता चलेगा?</c.bg_transparent>"
+199;1325324;1326616;"<c.bg_transparent>ईश्वर सब कुछ देखता है।</c.bg_transparent>"
+200;1327701;1329369;"<c.bg_transparent>शायद ईश्वर भी यही चाहते हों तो?</c.bg_transparent>"
+201;1341590;1344718;"<c.bg_transparent>ठीक है तो फिर, जाओ सो जाओ</c.bg_transparent>
+<c.bg_transparent>अपने ईश्वर के साथ।</c.bg_transparent>"
+202;1414371;1417415;"<c.bg_transparent>क्या तुम यही चाहते थे?</c.bg_transparent>
+<c.bg_transparent>यहाँ तो बहुत सारे...</c.bg_transparent>"
+203;1435559;1437310;"<c.bg_transparent>ब्योर्न, कहाँ जा रहे हो?</c.bg_transparent>"
+204;1475557;1476933;"<c.bg_transparent>चलो, नाश्ते का समय हो गया है।</c.bg_transparent>"
+205;1496369;1499122;"<c.bg_transparent>-तुम्हारी उम्र क्या है, लड़के?</c.bg_transparent>
+<c.bg_transparent>-13 साल।</c.bg_transparent>"
+206;1500207;1501374;"<c.bg_transparent>तेरह।</c.bg_transparent>"
+207;1502542;1504461;"<c.bg_transparent>मेरे बेटे की उम्र भी इतनी ही होती।</c.bg_transparent>"
+208;1507797;1510050;"<c.bg_transparent>मेरे आदमी जल्द ही</c.bg_transparent>
+<c.bg_transparent>ग्रीष्म आक्रमण के लिए जाएंगे,</c.bg_transparent>"
+209;1510592;1512552;"<c.bg_transparent>क्या तुम उनके साथ जाना चाहोगे?</c.bg_transparent>"
+210;1512761;1514095;"<c.bg_transparent>मेरा सपना भी यही है।</c.bg_transparent>"
+211;1514179;1517015;"<c.bg_transparent>मैं पहले से ही एक योद्धा हूँ,</c.bg_transparent>
+<c.bg_transparent>जैसे मेरे पिता थे।</c.bg_transparent>"
+212;1518683;1522646;"<c.bg_transparent>इसीलिए तो मैंने तुम्हें चुना है,</c.bg_transparent>
+<c.bg_transparent>क्योंकि तुम ताकतवर हो।</c.bg_transparent>"
+213;1531071;1532405;"<c.bg_transparent>बस इतना गहरा बहुत है।</c.bg_transparent>"
+214;1536409;1537619;"<c.bg_transparent>आ जाओ।</c.bg_transparent>"
+215;1559849;1561893;"<c.bg_transparent>आप ये सारा खज़ाना गाड़ क्यों रहे हैं?</c.bg_transparent>"
+216;1563103;1564604;"<c.bg_transparent>क्या तुम्हें कुछ पता नहीं है, लड़के?</c.bg_transparent>"
+217;1565146;1568733;"<c.bg_transparent>ओडिन ने वचन दिया है कि किसी भी आदमी ने</c.bg_transparent>
+<c.bg_transparent>अपने जीवित रहते हुए जो धन-संपत्ति जोड़ी है</c.bg_transparent>"
+218;1568817;1572445;"<c.bg_transparent>वह मरने के बाद और वलहैला में नया</c.bg_transparent>
+<c.bg_transparent>जीवन मिलने पर उसका इस्तेमाल कर सकता है।</c.bg_transparent>"
+219;1573530;1578118;"<c.bg_transparent>लेकिन खज़ाने की सुरक्षा करना ज़रूरी है,</c.bg_transparent>
+<c.bg_transparent>इसकी देखभाल करने के लिए कोई चाहिए।</c.bg_transparent>"
+220;1579369;1580620;"<c.bg_transparent>जीवित रहते हुए</c.bg_transparent>"
+221;1581955;1583248;"<c.bg_transparent>और मरने के बाद भी।</c.bg_transparent>"
+222;1589045;1591756;"<c.bg_transparent>तुमने अपना जीवन बहुत जी लिया है, लड़के।</c.bg_transparent>"
+223;1640430;1641681;"<c.bg_transparent>बस, अब और नहीं।</c.bg_transparent>"
+224;1643099;1646811;"<c.bg_transparent>हम नहीं चाहते कि हमारे घर आया मेहमान</c.bg_transparent>
+<c.bg_transparent>भूखा या प्यासा रहे।</c.bg_transparent>"
+225;1656446;1658281;"<c.bg_transparent>इंग्लैंड को लेकर मेरी बहुत जिज्ञासा है।</c.bg_transparent>"
+226;1659908;1663119;"<c.bg_transparent>क्या वहाँ एक ही राजा है जो</c.bg_transparent>
+<c.bg_transparent>पूरे देश पर राज करता है?</c.bg_transparent>"
+227;1669959;1671795;"<c.bg_transparent>वहाँ चार साम्राज्य हैं</c.bg_transparent>"
+228;1674130;1675465;"<c.bg_transparent>और चार राजा हैं।</c.bg_transparent>"
+229;1676966;1679427;"<c.bg_transparent>तुम नॉर्थअम्ब्रिया साम्राज्य में उतरे थे।</c.bg_transparent>"
+230;1681554;1684641;"<c.bg_transparent>नॉर्थअम्ब्रिया के राजा का नाम ऐला है।</c.bg_transparent>"
+231;1686601;1688144;"<c.bg_transparent>वह एक महान राजा है।</c.bg_transparent>"
+232;1690021;1691564;"<c.bg_transparent>एक शक्तिशाली राजा।</c.bg_transparent>"
+233;1691648;1693858;"<c.bg_transparent>फिर उसके आदमियों ने तुम्हारे</c.bg_transparent>
+<c.bg_transparent>गिरजाघर की रक्षा क्यों नहीं की?</c.bg_transparent>"
+234;1696945;1701533;"<c.bg_transparent>तुम्हारे आने से पहले हमें अपने मठ की</c.bg_transparent>
+<c.bg_transparent>रक्षा करने की कभी ज़रूरत ही नहीं पड़ी।</c.bg_transparent>"
+235;1702534;1703993;"<c.bg_transparent>हम शांतिपूर्वक रहते थे।</c.bg_transparent>"
+236;1705620;1708873;"<c.bg_transparent>सभी लोग उसे ईश्वर का स्थान मानकर</c.bg_transparent>
+<c.bg_transparent>सम्मान करते थे।</c.bg_transparent>"
+237;1712168;1717132;"<c.bg_transparent>तुम्हारे ईश्वर को सोने और</c.bg_transparent>
+<c.bg_transparent>चांदी की क्या ज़रूरत है?</c.bg_transparent>"
+238;1718133;1719509;"<c.bg_transparent>वह तो लालची लगता है।</c.bg_transparent>"
+239;1721803;1723096;"<c.bg_transparent>लोकी की तरह!</c.bg_transparent>"
+240;1724848;1726599;"<c.bg_transparent>हमारे यहाँ भी लालची देवता होते हैं।</c.bg_transparent>"
+241;1728268;1730520;"<c.bg_transparent>मेरा ईश्वर लालची नहीं है।</c.bg_transparent>"
+242;1733148;1735275;"<c.bg_transparent>उसका साम्राज्य इस दुनिया में नहीं है।</c.bg_transparent>"
+243;1735859;1738236;"<c.bg_transparent>तो फिर उसका साम्राज्य खज़ाने</c.bg_transparent>
+<c.bg_transparent>से क्यों भरा है?</c.bg_transparent>"
+244;1739654;1743366;"<c.bg_transparent>ईसाई लोग अपनी धन-दौलत को गिरजाघरों और</c.bg_transparent>"
+245;1743867;1748830;"<c.bg_transparent>मठों में दान करते हैं ताकि उनकी आत्मा को</c.bg_transparent>
+<c.bg_transparent>ईश्वर के चरणों में जगह मिल सके।</c.bg_transparent>"
+246;1751166;1752584;"<c.bg_transparent>ये उनकी आत्मा से तुम्हारा मतलब क्या है?</c.bg_transparent>"
+247;1761801;1764304;"<c.bg_transparent>मैं तुम्हारी कुछ बोली सीखना चाहता हूँ।</c.bg_transparent>"
+248;1765930;1767599;"<c.bg_transparent>क्या तुम मुझे सिखाओगे, पुजारी?</c.bg_transparent>"
+249;1816564;1818233;"<c.bg_transparent>रैगनार लोथब्रोक।</c.bg_transparent>"
+250;1818691;1819859;"<c.bg_transparent>महाराज।</c.bg_transparent>"
+251;1820318;1822111;"<c.bg_transparent>और तुम्हारा नया गुलाम कैसा है?</c.bg_transparent>"
+252;1824781;1827700;"<c.bg_transparent>यह मेरे लिए बहुत काम का है,</c.bg_transparent>
+<c.bg_transparent>आप भी जान जाएंगे।</c.bg_transparent>"
+253;1830703;1831955;"<c.bg_transparent>तो तुम क्या चाहते हो?</c.bg_transparent>"
+254;1832247;1833790;"<c.bg_transparent>मैं फिर से पश्चिम की ओर जाना चाहता हूँ।</c.bg_transparent>"
+255;1834833;1837836;"<c.bg_transparent>मैंने अपने ईसाई गुलाम से इस बारे में</c.bg_transparent>
+<c.bg_transparent>बहुत लंबी बातचीत की है।</c.bg_transparent>"
+256;1838920;1840588;"<c.bg_transparent>यह मूर्ख नहीं है,</c.bg_transparent>"
+257;1841297;1843216;"<c.bg_transparent>हालांकि इसका ईश्वर मूर्ख है।</c.bg_transparent>"
+258;1843883;1845593;"<c.bg_transparent>इसने बहुत सी यात्राएं की हैं,</c.bg_transparent>"
+259;1845969;1849055;"<c.bg_transparent>और इसने मुझे बताया है कि</c.bg_transparent>
+<c.bg_transparent>पश्चिम में कई देश हैं।</c.bg_transparent>"
+260;1850306;1852308;"<c.bg_transparent>इसने मुझे इंग्लैंड के बारे में भी बताया,</c.bg_transparent>"
+261;1852976;1856938;"<c.bg_transparent>उसके राजाओं और उसके</c.bg_transparent>
+<c.bg_transparent>रीति-रिवाजों के बारे में बताया।</c.bg_transparent>"
+262;1857397;1859774;"<c.bg_transparent>और उसके रीति-रिवाजों से</c.bg_transparent>
+<c.bg_transparent>हमें क्या लेना-देना?</c.bg_transparent>"
+263;1860984;1865154;"<c.bg_transparent>इसने मुझे बताया कि जिस गिरजाघर को</c.bg_transparent>
+<c.bg_transparent>हमने लूटा था उसके पास ही एक बड़ा शहर है।</c.bg_transparent>"
+264;1865572;1870577;"<c.bg_transparent>और उस शहर में दूसरे गिरजाघर,</c.bg_transparent>
+<c.bg_transparent>साथ ही और दौलत भी होगी।</c.bg_transparent>"
+265;1871619;1874163;"<c.bg_transparent>नहीं! मैं झूठ बोल रहा था!</c.bg_transparent>
+<c.bg_transparent>वहाँ ऐसा कुछ नहीं है!</c.bg_transparent>"
+266;1875999;1877083;"<c.bg_transparent>सुना आपने?</c.bg_transparent>"
+267;1877834;1879919;"<c.bg_transparent>उस शहर में तो जाना ही होगा।</c.bg_transparent>"
+268;1882755;1884173;"<c.bg_transparent>हमें हमारी नाव वापस दे दीजिए।</c.bg_transparent>"
+269;1884799;1886676;"<c.bg_transparent>हमें वहाँ जाकर पता लगाने दीजिए।</c.bg_transparent>"
+270;1887010;1888428;"<c.bg_transparent>इसमें आपका कोई भी नुकसान नहीं है।</c.bg_transparent>"
+271;1889053;1893224;"<c.bg_transparent>लूटा गया माल आपका ही होगा</c.bg_transparent>
+<c.bg_transparent>जिसका आप जैसा चाहें इस्तेमाल करें।</c.bg_transparent>"
+272;1893308;1896769;"<c.bg_transparent>-मैं खुद वहाँ जा सकता हूँ।</c.bg_transparent>
+<c.bg_transparent>-हाँ, आप जा सकते हैं, महाराज,</c.bg_transparent>"
+273;1897270;1899063;"<c.bg_transparent>लेकिन खुद को खतरे में क्यों डालना?</c.bg_transparent>"
+274;1900607;1904861;"<c.bg_transparent>क्यों न आप ये किसी ऐसे आदमी को करने दें</c.bg_transparent>
+<c.bg_transparent>जिसे इस यात्रा का अधिक अनुभव है,</c.bg_transparent>"
+275;1906321;1908448;"<c.bg_transparent>और जिसकी ज़िंदगी</c.bg_transparent>
+<c.bg_transparent>उतनी कीमती भी नहीं है?</c.bg_transparent>"
+276;1924631;1925715;"<c.bg_transparent>तो ठीक है।</c.bg_transparent>"
+277;1926841;1930511;"<c.bg_transparent>मैं एक शर्त पर इसकी मंज़ूरी देता हूँ।</c.bg_transparent>"
+278;1931512;1934140;"<c.bg_transparent>एक योद्धा जिस पर मुझे भरोसा है</c.bg_transparent>
+<c.bg_transparent>वह तुम्हारे साथ जाएगा। कनूट।</c.bg_transparent>"
+279;1936392;1939312;"<c.bg_transparent>तुम मेरी खातिर इसके साथ जाओगे।</c.bg_transparent>"
+280;1939896;1941230;"<c.bg_transparent>मुझ पर भरोसा रखें, महाराज।</c.bg_transparent>"
+281;1941731;1944984;"<c.bg_transparent>मैं आपके हितों का पूरा ध्यान रखूंगा।</c.bg_transparent>"
+282;1947612;1949614;"<c.bg_transparent>हे प्रभु, मेरी ग़लती के लिए</c.bg_transparent>
+<c.bg_transparent>मुझे क्षमा करना।</c.bg_transparent>"
+283;1951240;1952659;"<c.bg_transparent>आपको मुझ पर गर्व होगा।</c.bg_transparent>"
+284;1963628;1966214;"<c.bg_transparent>उसे समुद्र में रास्ता खोजने का</c.bg_transparent>
+<c.bg_transparent>कोई नया तरीका मिला है।</c.bg_transparent>"
+285;1968633;1970009;"<c.bg_transparent>पता करो वो क्या है।</c.bg_transparent>"
+286;2003459;2005003;"<c.bg_transparent>तुम चाहो तो भाग जाओ।</c.bg_transparent>"
+287;2025273;2027608;"<c.bg_transparent>मैंने वापस इंग्लैंड जाने के लिए</c.bg_transparent>
+<c.bg_transparent>अर्ल की अनुमति ले ली है।</c.bg_transparent>"
+288;2027692;2029360;"<c.bg_transparent>मैं जल्द से जल्द निकलना चाहता हूँ।</c.bg_transparent>"
+289;2034574;2036034;"<c.bg_transparent>कितने जल्दी?</c.bg_transparent>"
+290;2036534;2037702;"<c.bg_transparent>कल ही।</c.bg_transparent>"
+291;2045668;2047420;"<c.bg_transparent>हम सभी तुम्हारी सफलता की कामना करेंगे।</c.bg_transparent>"
+292;2048796;2050506;"<c.bg_transparent>हम ओडिन को बलि चढ़ाएंगे।</c.bg_transparent>"
+293;2054052;2055470;"<c.bg_transparent>तुम साथ नहीं चलोगी?</c.bg_transparent>"
+294;2057221;2058347;"<c.bg_transparent>क्या?</c.bg_transparent>"
+295;2061809;2063436;"<c.bg_transparent>मैं चाहता हूँ तुम भी मेरे साथ चलो।</c.bg_transparent>"
+296;2066647;2069442;"<c.bg_transparent>लेकिन अपने खेत, बच्चे...</c.bg_transparent>"
+297;2069817;2073988;"<c.bg_transparent>ब्योर्न अभी बहुत छोटा है,</c.bg_transparent>
+<c.bg_transparent>पर वह खेत संभाल सकता है।</c.bg_transparent>"
+298;2075698;2078785;"<c.bg_transparent>लेकिन घर कौन संभालेगा?</c.bg_transparent>"
+299;2079118;2080203;"<c.bg_transparent>पुजारी।</c.bg_transparent>"
+300;2081037;2082288;"<c.bg_transparent>मैं उसके पास चाबी छोड़कर जाऊंगा।</c.bg_transparent>"
+301;2083039;2087627;"<c.bg_transparent>पिताजी! आप अपने ही बेटे के ऊपर</c.bg_transparent>
+<c.bg_transparent>किसी गुलाम को नहीं रख सकते हैं।</c.bg_transparent>"
+302;2091130;2092715;"<c.bg_transparent>मैं इसे गुलाम नहीं मानता।</c.bg_transparent>"
+303;2093633;2095426;"<c.bg_transparent>यह एक ज़िम्मेदार आदमी है।</c.bg_transparent>"
+304;2096552;2100223;"<c.bg_transparent>नहीं, रैगनार लोथब्रोक, ऐसा मत कीजिए।</c.bg_transparent>"
+305;2102725;2104310;"<c.bg_transparent>तुम्हें क्या लगता है, गीडा?</c.bg_transparent>"
+306;2105686;2107730;"<c.bg_transparent>मुझे कोई दिक्कत नहीं।</c.bg_transparent>
+<c.bg_transparent>मुझे ये पुजारी पसंद है।</c.bg_transparent>"
+307;2109440;2111067;"<c.bg_transparent>तो फिर यह तय रहा।</c.bg_transparent>"
+308;2125957;2128709;"<c.bg_transparent>अगर मेरे बच्चों को कुछ भी हुआ,</c.bg_transparent>"
+309;2129168;2134090;"<c.bg_transparent>तो मैं तुम्हारे बदन से</c.bg_transparent>
+<c.bg_transparent>खून का कतरा-कतरा बहा दूंगी।</c.bg_transparent>"
+310;2180344;2182138;"<c.bg_transparent>मुझे इसका जवाब दो, कनूट,</c.bg_transparent>"
+311;2182555;2183931;"<c.bg_transparent>क्या तुम वाकई हमारे ही साथ हो?</c.bg_transparent>"
+312;2185433;2187059;"<c.bg_transparent>ये अच्छी तरह से समझ ले!</c.bg_transparent>"
+313;2187143;2189395;"<c.bg_transparent>एक युद्ध टोली</c.bg_transparent>"
+314;2193274;2194942;"<c.bg_transparent>साथ में ही जीती है और साथ में ही मरती है।</c.bg_transparent>"
+315;2195818;2200740;"<c.bg_transparent>यदि तुम अपने दोनों ओर के आदमी पर</c.bg_transparent>
+<c.bg_transparent>या तुम्हारे सामने वाले आदमी पर</c.bg_transparent>"
+316;2201991;2203492;"<c.bg_transparent>भरोसा नहीं कर सकते,</c.bg_transparent>"
+317;2206454;2208247;"<c.bg_transparent>तो समझो तुम्हारा मरना तय है।</c.bg_transparent>"
+318;2212126;2214003;"<c.bg_transparent>मैं तुम्हारे साथ ही हूँ।</c.bg_transparent>"
+319;2216964;2219800;"<c.bg_transparent>मैंने पहले तुम्हारे साथ</c.bg_transparent>
+<c.bg_transparent>नहीं आकर गलती की थी।</c.bg_transparent>"
+320;2220134;2224513;"<c.bg_transparent>अब मुझे डर है कि इसके लिए</c.bg_transparent>
+<c.bg_transparent>ओडिन मुझे माफ़ नहीं करेंगे।</c.bg_transparent>"
+321;2225973;2229560;"<c.bg_transparent>मेरे लिए, यह उतना ही खास है</c.bg_transparent>
+<c.bg_transparent>जितना तुम्हारे लिए है।</c.bg_transparent>"
+322;2242782;2244242;"<c.bg_transparent>बस पूछना ही चाहता था।</c.bg_transparent>"
+323;2311642;2315229;"<c.bg_transparent>नॉर्थअम्ब्रिया साम्राज्य, इंग्लैंड</c.bg_transparent>"
+324;2326824;2329327;"<c.bg_transparent>रैगनार, वहाँ देखो!</c.bg_transparent>"
+325;2364695;2366280;"<c.bg_transparent>स्वागत है, भले लोगों।</c.bg_transparent>"
+326;2367239;2369200;"<c.bg_transparent>तुम कौन हो? कौन-सी भाषा बोलते हो?</c.bg_transparent>"
+327;2370117;2372203;"<c.bg_transparent>हम उत्तरवासी हैं।</c.bg_transparent>"
+328;2373621;2374997;"<c.bg_transparent>व्यापारी?</c.bg_transparent>"
+329;2375081;2376290;"<c.bg_transparent>हाँ। व्यापारी। हाँ।</c.bg_transparent>"
+330;2377124;2378250;"<c.bg_transparent>वह क्या कह रहा है?</c.bg_transparent>"
+331;2378751;2379919;"<c.bg_transparent>वह कौन है?</c.bg_transparent>"
+332;2383130;2384507;"<c.bg_transparent>मैं यहाँ का रक्षक हूँ।</c.bg_transparent>"
+333;2385383;2389303;"<c.bg_transparent>यदि तुम व्यापार करना चाहते हो, तो</c.bg_transparent>
+<c.bg_transparent>तुम्हें हमारे राजा ऐला से मिलना होगा।</c.bg_transparent>"
+334;2390513;2392598;"<c.bg_transparent>हम तुम्हें उनसे मिलवाने ले जाएंगे।</c.bg_transparent>"
+335;2395309;2396727;"<c.bg_transparent>वह क्या कह रहा है?</c.bg_transparent>"
+336;2400064;2402566;"<c.bg_transparent>वह हमें अपने राजा से मिलवाने</c.bg_transparent>
+<c.bg_transparent>ले जाना चाहता है।</c.bg_transparent>"
+337;2405736;2406987;"<c.bg_transparent>यह एक जाल है।</c.bg_transparent>"
+338;2407071;2409990;"<c.bg_transparent>उसकी मत सुनो। वो हमें मार डालेंगे।</c.bg_transparent>"
+339;2413202;2415162;"<c.bg_transparent>रुको। इनके साथ जाना</c.bg_transparent>
+<c.bg_transparent>हमारे लिए फ़ायदेमंद हो सकता।</c.bg_transparent>"
+340;2415246;2417373;"<c.bg_transparent>तब तक रुको जब तक हम</c.bg_transparent>
+<c.bg_transparent>जान नहीं लेते कि हम हैं कहाँ।</c.bg_transparent>"
+341;2425923;2429760;"<c.bg_transparent>मैं रोलो से सहमत हूँ।</c.bg_transparent>
+<c.bg_transparent>मेरी मानो हम उन्हें ख़त्म कर देते हैं।</c.bg_transparent>"
+342;2431053;2432513;"<c.bg_transparent>तुम बहस क्यों कर रहे हो?</c.bg_transparent>"
+343;2432888;2437435;"<c.bg_transparent>हम अपने पड़ोसियों के साथ</c.bg_transparent>
+<c.bg_transparent>शांतिपूर्ण व्यापार करना चाहते हैं,</c.bg_transparent>"
+344;2437518;2440020;"<c.bg_transparent>चाहे वो जो कोई भी हों।</c.bg_transparent>"
+345;2440104;2441939;"<c.bg_transparent>क्यों न तुम हमारे साथ चलो?</c.bg_transparent>"
+346;2442022;2443691;"<c.bg_transparent>वे आपस में ही बहस कर रहे हैं।</c.bg_transparent>"
+347;2443774;2445526;"<c.bg_transparent>वे कह क्या रहे हैं?</c.bg_transparent>"
+348;2446277;2447570;"<c.bg_transparent>कुछ माल देकर उन्हें यहाँ से चलता करो।</c.bg_transparent>"
+349;2447653;2449405;"<c.bg_transparent>वे घात लगाकर हमला करने की तैयारी</c.bg_transparent>
+<c.bg_transparent>कर रहे हैं।</c.bg_transparent>"
+350;2450281;2452283;"<c.bg_transparent>चलो उन्हें खत्म करें और इसे निपटाएं।</c.bg_transparent>"
+351;2452825;2454410;"<c.bg_transparent>तुम्हारे आदमी किस बारे में बहस कर रहे हैं?</c.bg_transparent>"
+352;2455494;2457621;"<c.bg_transparent>हम आपके साथ आएंगे।</c.bg_transparent>
+<c.bg_transparent>परेशान न हों।</c.bg_transparent>"
+353;2467214;2470426;"<c.bg_transparent>तो आओ फिर। महल ज़्यादा दूर नहीं है।</c.bg_transparent>"
+354;2471886;2472887;"<c.bg_transparent>यह एक जाल है।</c.bg_transparent>"
+355;2476557;2477892;"<c.bg_transparent>चलो उनके साथ चलते हैं।</c.bg_transparent>"
+356;2477975;2479143;"<c.bg_transparent>नहीं।</c.bg_transparent>"
+357;2481604;2483147;"<c.bg_transparent>उसे क्या समस्या है?</c.bg_transparent>"
+358;2490654;2492239;"<c.bg_transparent>उसे आप पर भरोसा नहीं है।</c.bg_transparent>"
+359;2509590;2510925;"<c.bg_transparent>यह लो।</c.bg_transparent>"
+360;2528859;2530277;"<c.bg_transparent>हम दोस्त हैं। ईश्वर के नाम पर!</c.bg_transparent>"
+361;2553968;2555261;"<c.bg_transparent>रैगनार!</c.bg_transparent>"
+362;2592006;2594008;"<c.bg_transparent>संवाद अनुवादक: छाया चौरे</c.bg_transparent>"
